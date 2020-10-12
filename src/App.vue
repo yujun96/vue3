@@ -12,7 +12,7 @@ export default {
   name: 'App',
   setup() {
     let obj = {
-      name:"1111",
+      name:"11112222222",
       age:19,
       info:{
         bb:"55555"
