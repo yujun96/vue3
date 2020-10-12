@@ -1,6 +1,6 @@
 <template>
  <div>
-  <!-- {{state.name}} -->
+  {{state.name}}
   <button @click="handleAdd">按钮</button>
  </div>
 
